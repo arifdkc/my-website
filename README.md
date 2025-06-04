@@ -11,4 +11,4 @@ https://arifemredikici.com/
 
 - HTML5  
 - CSS3  
-- JavaScript
+- JavaScript# my-website
